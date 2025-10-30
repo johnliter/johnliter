@@ -1,44 +1,56 @@
-### Hi there 👋
-🌱 I’m currently learning Python. (Taking the 100 Days of Code: The Compete Python Pro Bootcamp with App Brewery on Udem.)<br>
-🔭 I’m currently working on learning to create a PyGame while using Code this Game! book by Meg Ray.<br>
-🔭 I’m currently working on teaching my kids how to create a webpage using the book Get Coding! by Young Rewired State.<br>
+# 👋 Hi, I’m John Liter
 
-I have learned and still learning:
-<ul>
-  <li>Microsoft 365 Fundamentals</li>
-  <li>HTML, CSS, JS</li>
-  <li>Linux (Currently using Garuda)</li>
-</ul>
+## 🎓 Web Development Student | Builder of Digital Systems
 
-Things I want to learn more about:
-<ul>
-  <li>Excel Formulas</li>
-  <li>Data Analysis with Python</li>
-  <li>Power Apps</li>
-</ul>
+I’m currently completing my **Web Development degree** and applying everything I’ve learned through hands-on projects. My work bridges traditional web development, automation, and creative tech — building smarter workflows and scalable solutions for individuals and small businesses.
 
-⚡ Fun fact: I retire from the U.S. Army in July 2023!<br>
+---
 
-📫 How to reach me: john.liter.vet@gmail.com
+## 🧠 Technical Skills
 
-Great Tools and Resources<br>
-<ul>
-  <li>[freecodecamp] (https://www.freecodecamp.org/)</li>
-  <li>[W3 Schools] (https://www.w3schools.com/)</li>
-  <li>[Solo Learn] (https://www.sololearn.com/)</li>
-  <li>[diagrams.net] (https://www.diagrams.net/)</li>
-</ul>
-<!--
-**civic-coder-guy/civic-coder-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend / Scripting:** Python, JSON, REST APIs  
+- **Automation:** n8n (Workflow Automation, API Integration, AI Agents)  
+- **Tools & Platforms:** VSCode, Ubuntu, Hostinger, GitHub, Canva, Trae IDE  
+- **Other Focus Areas:** Data-driven marketing, SEO, AI-powered systems, and client acquisition workflows  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ What I Build
+
+- Full-stack web apps with modular, reusable code  
+- Automated workflows using **n8n** for business operations and marketing  
+- AI-assisted tools for **content creation**, **lead generation**, and **digital branding**  
+- Responsive websites optimized for speed, UX, and search visibility  
+
+---
+
+## 🧩 Projects & Brands
+
+- **JL Digital Services** – AI-Automation, Web Development, and Digital Marketing  
+- **Fresh & Clean Yard Services** – Local business platform integrating booking + automation  
+- **Curious Craftory** – Digital and physical creative brand co-run with my wife  
+- **Cashflow Campus 2.0** – Educational content around entrepreneurship and self-improvement  
+
+---
+
+## 💡 Core Beliefs
+
+- Consistency beats motivation.  
+- Simplicity scales better than complexity.  
+- Tech should serve people, not the other way around.  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Website](https://johnliter.de)  
+- 💼 [LinkedIn](https://linkedin.com/in/johnliter)  
+- 📸 [Instagram](https://instagram.com/jldigitalservices)  
+- 🐦 [X (Twitter)](https://twitter.com/johnliter)  
+- 🧠 [The Real World](https://jointherealworld.com/?a=n7n8gwbbrp)  
+
+---
+
+### 🧩 “The goal isn’t to escape the Matrix — it’s to master it.”
+
