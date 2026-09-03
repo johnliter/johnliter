@@ -1,0 +1,22 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#030706"/>
+      <stop offset="50%" stop-color="#061512"/>
+      <stop offset="100%" stop-color="#030706"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22E584"/>
+      <stop offset="50%" stop-color="#06D6D6"/>
+      <stop offset="100%" stop-color="#168BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="22" fill="url(#bg)"/>
+  <line x1="120" y1="42" x2="1080" y2="42" stroke="url(#g)" stroke-width="2"/>
+  <text x="600" y="94" text-anchor="middle" fill="#F4FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">
+    “The goal isn’t to escape the Matrix — it’s to master it.”
+  </text>
+  <text x="600" y="128" text-anchor="middle" fill="#22E584" font-family="monospace" font-size="15" letter-spacing="3">
+    BUILD // LEARN // IMPROVE // DEPLOY
+  </text>
+</svg>

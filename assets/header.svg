@@ -1,0 +1,43 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030706"/>
+      <stop offset="52%" stop-color="#04100F"/>
+      <stop offset="100%" stop-color="#071A18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22E584"/>
+      <stop offset="55%" stop-color="#06D6D6"/>
+      <stop offset="100%" stop-color="#168BFF"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#22E584" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+
+  <g opacity=".16" fill="#22E584" font-family="monospace" font-size="18">
+    <text x="55" y="58">01001010 01001100</text>
+    <text x="930" y="78">SYSTEMS // BUILD</text>
+    <text x="65" y="267">DEPLOY // ITERATE // IMPROVE</text>
+    <text x="900" y="274">AUTOMATION // AI</text>
+  </g>
+
+  <rect x="74" y="86" width="7" height="145" rx="3.5" fill="url(#accent)" filter="url(#glow)"/>
+
+  <text x="115" y="145" fill="#F4FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="6">JOHN LITER</text>
+  <text x="118" y="190" fill="#22E584" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="4">DEVELOPER  //  SYSTEMS BUILDER  //  AUTOMATION</text>
+  <text x="118" y="226" fill="#A7C9BC" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.8">WEB DEVELOPMENT • BUSINESS SYSTEMS • AI • INFRASTRUCTURE</text>
+
+  <line x1="116" y1="247" x2="1090" y2="247" stroke="url(#accent)" stroke-width="2" opacity=".72"/>
+  <circle cx="1094" cy="247" r="5" fill="#06D6D6" filter="url(#glow)"/>
+</svg>
