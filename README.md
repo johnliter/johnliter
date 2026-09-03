@@ -94,11 +94,7 @@ I use AI extensively as a development tool for research, debugging, architecture
 </p>
 GitHub Activity
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=johnliter&show_icons=true&hide_border=true&bg_color=030706&title_color=22E584&text_color=E8FFF6&icon_color=06D6D6" alt="John Liter GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnliter&layout=compact&hide_border=true&bg_color=030706&title_color=22E584&text_color=E8FFF6" alt="Most used languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johnliter&hide_border=true&background=030706&ring=22E584&fire=06D6D6&currStreakLabel=22E584&sideLabels=E8FFF6&dates=8CA99D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=johnliter&hide_border=true&background=030706&ring=22E584&fire=06D6D6&currStreakLabel=22E584&sideLabels=E8FFF6&dates=8CA99D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="John Liter GitHub Contribution Streak">
 </p>
 <p align="center">
   <img src="./assets/divider.svg" width="92%" alt="">
